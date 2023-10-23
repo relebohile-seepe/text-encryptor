@@ -1,0 +1,12 @@
+C:\Users\Relebohile\Videos\Projects\New Release\textEncryptor\textEncryptor\bin\Debug\textEncryptor.exe.config
+C:\Users\Relebohile\Videos\Projects\New Release\textEncryptor\textEncryptor\bin\Debug\textEncryptor.exe
+C:\Users\Relebohile\Videos\Projects\New Release\textEncryptor\textEncryptor\bin\Debug\textEncryptor.pdb
+C:\Users\Relebohile\Videos\Projects\New Release\textEncryptor\textEncryptor\bin\Debug\textEncryptor.xml
+C:\Users\Relebohile\Videos\Projects\New Release\textEncryptor\textEncryptor\obj\Debug\textEncryptor.Form1.resources
+C:\Users\Relebohile\Videos\Projects\New Release\textEncryptor\textEncryptor\obj\Debug\textEncryptor.Resources.resources
+C:\Users\Relebohile\Videos\Projects\New Release\textEncryptor\textEncryptor\obj\Debug\textEncryptor.vbproj.GenerateResource.Cache
+C:\Users\Relebohile\Videos\Projects\New Release\textEncryptor\textEncryptor\obj\Debug\textEncryptor.exe
+C:\Users\Relebohile\Videos\Projects\New Release\textEncryptor\textEncryptor\obj\Debug\textEncryptor.xml
+C:\Users\Relebohile\Videos\Projects\New Release\textEncryptor\textEncryptor\obj\Debug\textEncryptor.pdb
+C:\Users\Relebohile\Videos\Projects\New Release\textEncryptor\textEncryptor\bin\Debug\Guna.UI.dll
+C:\Users\Relebohile\Videos\Projects\New Release\textEncryptor\textEncryptor\obj\Debug\textEncryptor.Form2.resources
